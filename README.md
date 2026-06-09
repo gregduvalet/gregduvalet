@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Gregory 👋
 
-<!--
-**gregduvalet/gregduvalet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**XR & AI Technology Advisor** based in France
 
-Here are some ideas to get you started:
+I help French companies adopt 3DGS technologies, also immersive techs and AI —
+from strategy to hands-on implementation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus areas
+- 🫧 3D Gaussian Splatting & spatial computing
+- 📡 Reality capture (Xgrids, LCC Studio, 3DGS pipelines)
+- 🥽 Virtual & Augmented Reality (industrial use cases)
+- 🧠 AI for industry (practical applications)
+
+## Currently exploring
+- 3DGS workflows for industrial digital twins
+- Cloud GPU pipelines (RunPod + open source 3DGS)
+- XR adoption strategies for French SMEs
+
+## Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gregduvalet-blue)](https://linkedin.com/in/gregduvalet/)
